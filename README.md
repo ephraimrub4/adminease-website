@@ -1,1 +1,1 @@
-# adminease-website.
+# adminease-website
